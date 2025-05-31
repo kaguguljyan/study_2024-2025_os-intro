@@ -6,3 +6,5 @@ clean:
 
 cleanall: clean
 	-rm -rf .quarto
+	
+
